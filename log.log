@@ -1,0 +1,17 @@
+
+2018/06/16 18:19:21 mload.go:254: =====job start.=====
+
+2018/06/16 18:19:21 mload.go:255: start init colletion
+
+2018/06/16 18:19:21 mload.go:256: mongobench data_test loc false 1 update
+
+2018/06/16 18:19:21 mload.go:94: Connect to 127.0.0.1 UserName is   PassWord is  Success
+
+2018/06/16 18:19:21 mload.go:97: Use  mongobench . data_test &{127.0.0.1 27017   mongobench data_test 1 1 1 loc 0xc0420a4680 0xc0420f2040 0xc0420ea150}
+
+2018/06/16 18:19:21 mload.go:380: =====Done.=====
+
+build index Num
+
+2018/06/16 18:18:05 mload.go:380: =====Done.=====
+one.=====
